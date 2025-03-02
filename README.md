@@ -1,10 +1,12 @@
-# GLaDOS机场官网地址
+# GLaDOS官网地址
 
 最新地址：[glados.space](https://glados.space/landing/61LS8-6D178-TGBDM-5ZUQ6)
 
 或者：
 
 [自动激活](https://61ls8-6d178-tgbdm-5zuq6.glados.space)
+
+[![GLaDOS官网地址](glados_20250302_202626.png)](https://glados.space/landing/61LS8-6D178-TGBDM-5ZUQ6)
 
 ## GLaDOS机场简介
 
@@ -28,7 +30,7 @@ GLaDOS目前最新优惠码：[Of-Course-I-Still-Love-You](https://61ls8-6d178-t
 
 ## GLaDOS套餐价格
 
-||Basic|Pro|Team|
+|套餐|Basic|Pro|Team|
 |----|----|----|----|
 |30天|￥26|￥39|-|
 |100天|￥79|￥138|￥538|
